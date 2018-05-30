@@ -1,4 +1,3 @@
-
 wo shi wlj
 我是王刚
 wo shi yuan xiao yu
@@ -9,3 +8,4 @@ num = 20
 num = 30
 #第四个变量
 num = 40
+num = 50
