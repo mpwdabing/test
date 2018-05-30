@@ -1,3 +1,4 @@
+
 wo shi wlj
 我是王刚
 wo shi yuan xiao yu
@@ -6,4 +7,5 @@ num = 10
 num = 20
 #修改冲突
 num = 30
-
+#第四个变量
+num = 40
